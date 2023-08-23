@@ -7,4 +7,4 @@ A simple drumkit using basic concepts of javascript.
 
 
 
-<img src="" />
+<img src="Drum Kit - Google Chrome 8_23_2023 10_03_08 PM.png" />
